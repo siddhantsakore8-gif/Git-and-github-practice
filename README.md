@@ -1,2 +1,3 @@
-# Git-and-github-practice
-personal portfolio for practice
+Name - siddhant sakore
+URN - E25B031509
+subject - Git and github
